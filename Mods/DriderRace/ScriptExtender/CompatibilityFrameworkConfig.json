@@ -1,0 +1,13 @@
+{
+    "FileVersion": 1,
+    "Spells": [
+        {
+            "ID": "Shout_DisguiseSelf",
+            "Action": "Insert",
+            "ContainerSpells": [
+                "Shout_DisguiseSelf_Drider_Male",
+                "Shout_DisguiseSelf_Drider_Female"
+            ]
+        }
+    ]
+}

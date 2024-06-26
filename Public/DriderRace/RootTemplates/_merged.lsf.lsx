@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="a9908f74-b80f-45ba-bce3-46af5a302fc3" />
+					<attribute id="Name" type="LSString" value="Drider_Female" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d2bbcd5b-31f9-41a6-83e7-b11c4b7c793a" />
+					<attribute id="Icon" type="FixedString" value="8eef5fbf-2822-5abf-1a21-aface77ac937-EQP_Longsword_(Icon_Drider)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="abacdd2d-8149-4e24-b519-0b9dcbe68420" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Drider" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="HeroDriderFemale" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="5897fe2f-1cf7-487d-95b7-d04feac0b0fa" />
+					<attribute id="Name" type="LSString" value="Drider_Male" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="d2bbcd5b-31f9-41a6-83e7-b11c4b7c793a" />
+					<attribute id="Icon" type="FixedString" value="8eef5fbf-2822-5abf-1a21-aface77ac937-EQP_Longsword_(Icon_Drider)" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="d252dac6-80f1-43f3-b21b-ebb0cc472312" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Drider" />
+					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="Stats" type="FixedString" value="HeroDriderMale" />
+					<children>
+						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="8f74d144-041e-4035-a9ac-72f41fc32de7" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

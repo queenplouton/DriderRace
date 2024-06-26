@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList">Spelllist
+                    <attribute id="Comment" type="LSString" value="" /> 
+                    <attribute id="Spells" type="LSString" value="" /> the spells within the selector
+                    <attribute id="UUID" type="guid" value="44594cbc-f908-40ea-aeeb-c82651a73a57" /> the UUID, needs to be unique
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

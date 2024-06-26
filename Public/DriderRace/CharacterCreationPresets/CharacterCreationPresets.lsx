@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="CharacterCreationPresets">
+    <node id="root">
+      <children>
+        <node id="CharacterCreationPreset">
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="1" /> (female)
+                    <attribute id="CloseUpA" type="LSString" value="HUM_FB_Camera_Closeup_A" />
+                    <attribute id="CloseUpB" type="LSString" value="HUM_FB_Camera_Closeup_B" />
+                    <attribute id="Overview" type="LSString" value="HUM_FB_Camera_Overview_A" />
+                    <attribute id="RaceUUID" type="guid" value="96de3d33-8a91-44cf-a157-1bb4d8f6358a" /> from Races.lsx
+                    <attribute id="RootTemplate" type="guid" value="527947d4-8c54-41d8-be0f-533f09fa46e5" /> character preset from RootTemplate merged file and CharacterVisuals file
+                    <attribute id="UUID" type="guid" value="2b28a550-83fa-4549-a9ca-7cda54ce7cdb" />
+                    <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e" />
+                </node>
+        <node id="CharacterCreationPreset">
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" /> (male)
+                    <attribute id="CloseUpA" type="LSString" value="HUM_MB_Camera_Closeup_A" />
+                    <attribute id="CloseUpB" type="LSString" value="HUM_MB_Camera_Closeup_B" />
+                    <attribute id="Overview" type="LSString" value="HUM_MB_Camera_Overview_A" />
+                    <attribute id="RaceUUID" type="guid" value="96de3d33-8a91-44cf-a157-1bb4d8f6358a" /> from Races.lsx
+                    <attribute id="RootTemplate" type="guid" value="5897fe2f-1cf7-487d-95b7-d04feac0b0fa" /> character preset from RootTemplate merged file and CharacterVisuals file
+                    <attribute id="UUID" type="guid" value="b18416e6-c81b-4ad5-86f9-4529e30a3556" />
+                    <attribute id="VOLinesTableUUID" type="guid" value="14df8f45-90af-4bd0-8024-42624da9976e" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

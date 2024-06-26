@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="|Drider, shapeshifted or not|" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="h4e4397c9g2c25g4437gbf07gf518276d3c0b" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h81c89805gb249g4e45ga4c5gf12288c3955d" version="2" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="REALLY_DRIDER" />
+			<attribute id="UUID" type="guid" value="822794b9-f70f-4da0-9bd5-d2af68fea5f3" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Race" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="PlayerRace" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="CharacterCreationAppearanceVisuals">
+    <node id="root">
+      <children>
+        <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="0" /> (Male)
+                    <attribute id="DisplayName" type="FixedString" value="Kar'niss" />
+                    <attribute id="RaceUUID" type="guid" value="96de3d33-8a91-44cf-a157-1bb4d8f6358a" /> (from races.lsf)
+                    <attribute id="SlotName" type="FixedString" value="Head" />
+                    <attribute id="UUID" type="guid" value="cb274499-01f0-4e81-a3ae-351a7bc6b837" /> (new)
+                    <attribute id="VisualResource" type="guid" value="bc1f18ae-8245-f613-bebc-e11c518e55dd" /> (from material bank _merged.lsf)
+                </node>
+        <node id="CharacterCreationAppearanceVisual">
+                    <attribute id="BodyShape" type="uint8" value="0" />
+                    <attribute id="BodyType" type="uint8" value="1" /> (Female)
+                    <attribute id="DisplayName" type="FixedString" value="Kar'niss" />
+                    <attribute id="RaceUUID" type="guid" value="96de3d33-8a91-44cf-a157-1bb4d8f6358a" /> (from races.lsf)
+                    <attribute id="SlotName" type="FixedString" value="Head" />
+                    <attribute id="UUID" type="guid" value="8b8ab43d-846f-4a27-9816-b2d8e0629e15" /> (new)
+                    <attribute id="VisualResource" type="guid" value="bc1f18ae-8245-f613-bebc-e11c518e55dd" /> (from material bank _merged.lsf)
+                </node>
+        <node id="CharacterCreationAppearanceVisual"> Drider M - A
+					<attribute id="BodyShape" type="uint8" value="0" /> 
+					<attribute id="BodyType" type="uint8" value="0" /> 
+                    <attribute id="DisplayName" type="TranslatedString" handle="" version="1" /> 
+                    <attribute id="RaceUUID" type="guid" value="96de3d33-8a91-44cf-a157-1bb4d8f6358a" /> (from races.lsf)
+					<attribute id="SlotName" type="FixedString" value="Head" />
+					<attribute id="UUID" type="guid" value="feb426a0-df0c-4972-a9c8-5b1224f5cca2" /> 
+					<attribute id="VisualResource" type="guid" value="9f0e9250-7367-47c8-b7a2-4a5b9497f30f" />
+					
+				</node>
+      </children>
+    </node>
+  </region>
+</save>

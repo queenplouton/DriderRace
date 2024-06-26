@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="1" time="0" />
+    <version major="1" minor="0" revision="0" build="0" />
+    <region id="EquipmentRaces">
+        <node id="root">
+          <children>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Drider Male" type="22" />
+              <attribute id="Guid" value="0b4950be-45b4-44e1-a084-b5596853b841" type="31" /> used in Roottemplate for armor visuals [Updated]
+              <attribute id="DefaultParent" value="7dd0aa66-5177-4f65-b7d7-187c02531b0b" type="31" /> drow as parent for visuals [Updated]
+              <attribute id="CharacterVisual" value="42b36039-6071-4318-b492-269c782003f7" type="31" /> 
+            </node>
+            <node id="EquipmentRace">
+              <attribute id="Name" value="Drider Female" type="22" />
+              <attribute id="Guid" value="b6ab80f5-9ad0-45a6-ba9a-52cc879c204b" type="31" /> used in Roottemplate for armor visuals [Updated]
+              <attribute id="DefaultParent" value="ad21d837-2db5-4e46-8393-7d875dd71287" type="31" /> drow as parent for visuals [Updated]
+              <attribute id="CharacterVisual" value="527947d4-8c54-41d8-be0f-533f09fa46e5" type="31" /> 
+            </node>
+          </children>
+        </node>
+    </region>
+</save>
